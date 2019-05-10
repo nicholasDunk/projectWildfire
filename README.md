@@ -9,6 +9,8 @@ This project is configured to use webpack and babel so that es6 javascript featu
 
 Additionally the Phaser game library is installed to provide tools for presenting game UI
 
+Precondition:  you must have NPM installed. See: https://wsvincent.com/install-node-js-npm-windows/
+
 
 ## Installing
 
