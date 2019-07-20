@@ -15,7 +15,7 @@ const gameConfig = {
       gravity: { y: 200 }
     }
   },
-  scene: BoardScene
+  scene: BoardSceneTest
 };
 
 
