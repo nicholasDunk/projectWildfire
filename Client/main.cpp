@@ -11,7 +11,7 @@ int main(int argc, char const *argv[])
     int sock = 0, valread;
     struct sockaddr_in serv_addr;
 
-    char hello[] = "Hello from client -craig";
+    char hello[] = "Hello from client";
     char buffer[1024] = {0};
 
     printf("About to start Client\n");
