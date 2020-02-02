@@ -16,6 +16,7 @@ int main(int argc, char const *argv[])
     char hello[] = "Hello from server";
 
     printf("Server code starting\n");
+
     // Creating socket file descriptor
     if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0)
     {
